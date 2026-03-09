@@ -331,7 +331,7 @@ This project demonstrates practical experience with:
 
 **Ziyad Alboghdady**
 
-Computer Science Student
+Software Engineering Student
 
 GitHub  
 https://github.com/ziyad-alboghdady
